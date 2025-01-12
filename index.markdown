@@ -4,4 +4,4 @@
 
 layout: home
 ---
-Welkom bij TapToChill. Hartelijk bedankt om met vrienden af te spreken via TapToChill en om onze Privacy Policy en Gebruiksvoorwaarden te lezen.
+Welcome to TapToChill. We are glad you are taking the time to review our Privacy Policy and Terms and Conditions
